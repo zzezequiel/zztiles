@@ -6,14 +6,14 @@ import cartLogo from '../../../img/cart-svgrepo-com.svg'
 
 function Collapsible() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
+    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
         <Navbar.Brand href="/">
         <img
               alt="logo"
-              src='https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/Logo/LogoVersion1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668875283659'
-              width="130"
-              height="70"
+              src='https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/Logo/LogoFondoNegro.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1668968012294'
+              width="100"
+              height="80"
               className="d-inline-block align-top"
             />
            

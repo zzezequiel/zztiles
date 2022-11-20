@@ -7,14 +7,15 @@
             "pxc" : "30kg",
             "mxc" : "1,44",
             "cxp" : "40",
-            "paxc" : "falta informacion",
+            "paxc" : "4",
             "img" : [
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/Negro_60x60/porcelanato_pulido_negro.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881833259",
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/Negro_60x60/p_negro_piso_indiv.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881833201",
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/Negro_60x60/p_negro_piso_3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881833241",
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/Negro_60x60/p_negro_piso.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881833307",
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/Negro_60x60/p_negro_piso_2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881833317"
-            ]
+            ],
+            "description" : ""
         },
         {
             "id" : "2",
@@ -44,8 +45,8 @@
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/PP_beige/p_beige_piso.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881994218",
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/PP_beige/p_beige_piso_3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881993743",
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/PP_beige/p_beige_piso_2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881993846"
-            ]
-
+            ],
+            "description" : ""
         },
         {
             "id" : "4",
@@ -57,7 +58,21 @@
             "paxc" : "falta informacion",
             "img" : [
                 "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/Marmi_Lux_75x75/MARMI_LUX_INDIV_2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881463784"
-            ]
+            ],
+            "description" : ""
+        },
+        {
+            "id" : "5",
+            "title" : "Porcelanato Marmi Lux Calacata Gold 75x75",
+            "medida" : "75x75",
+            "pxc" : "falta informacion",
+            "mxc" : "falta informacion",
+            "cxp" : "falta informacion",
+            "paxc" : "falta informacion",
+            "img" : [
+                "https://ik.imagekit.io/zzzzzzzzzz/ZZ_TILES/productos/Porcelanatos/Marmi_Lux_75x75/MARMI_LUX_INDIV_2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1668881463784"
+            ],
+            "description" : ""
         }
         
         
