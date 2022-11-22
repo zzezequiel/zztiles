@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "dev": "json-server --watch ./src/assets/db/db.json --port 4000",
+    "dev": "json-server --watch ./src/assets/db/db.json --port 4500",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
